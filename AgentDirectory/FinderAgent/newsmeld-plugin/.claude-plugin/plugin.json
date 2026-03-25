@@ -1,0 +1,9 @@
+{
+  "name": "newsmeld",
+  "version": "0.1.0",
+  "description": "NewsMeld: Autonomous news research that compiles multi-source reports from live outlets using a structured scraping pipeline",
+  "author": {
+    "name": "siddharth"
+  },
+  "keywords": ["newsmeld", "news", "research", "reporting", "breaking-news", "osint"]
+}
